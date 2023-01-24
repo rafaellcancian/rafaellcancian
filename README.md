@@ -1,16 +1,28 @@
-### Hi there 👋
+## Hello, World! 👋
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=rafaellcancian.rafaellcancian)
 
-<!--
-**rafaellcancian/rafaellcancian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌴 Sobre
+- 📌 Santa Maria - RS
+- 🎓 Bacharel em Ciência da Computação pela Universidade Franciscana (UFN)
+- 💼 Desenvolvedor back-end na <a href="https://www.instagram.com/condomerapp/" target="_blank">@condomerapp</a>
 
-Here are some ideas to get you started:
+## 🧰 Linguagens e ferramentas
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="Typescript" height="50" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="Javascript" height="50" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" height="50" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" height="50" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" title="Yarn" height="50" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="Postgresql" height="50" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Vscode" height="50" >
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" title="Postman" height="50" >
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1200px-DBeaver_logo.svg.png" title="DBeaver" height="50" >
+  <img src="https://cdn.worldvectorlogo.com/logos/gitkraken.svg" title="GitKraken" height="50" >
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✉️ Contato
+<p align="left">
+   <a href="https://www.facebook.com/rafaellcancian/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" title="Facebook" ></a>
+     <a href="https://www.instagram.com/rafaellcancian/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram" ></a>
+     <a href="mailto:rafaellonderocancian@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail" ></a>
+</p>
