@@ -4,7 +4,7 @@
 ## 🌴 Sobre
 - 📌 Santa Maria - RS
 - 🎓 Bacharel em Ciência da Computação pela Universidade Franciscana (UFN)
-- 💼 Desenvolvedor back-end na <a href="https://www.instagram.com/condomerapp/" target="_blank">@condomerapp</a>
+- 💼 Desenvolvedor back-end na <a href="https://www.instagram.com/condomerapp/">@condomerapp</a>
 
 ## 🧰 Linguagens e ferramentas
 <p align="left">
@@ -22,7 +22,7 @@
 
 ## ✉️ Contato
 <p align="left">
-   <a href="https://www.facebook.com/rafaellcancian/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" title="Facebook" ></a>
-     <a href="https://www.instagram.com/rafaellcancian/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram" ></a>
-     <a href="mailto:rafaellonderocancian@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail" ></a>
+   <a href="https://www.facebook.com/rafaellcancian/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" title="Facebook" ></a>
+   <a href="https://www.instagram.com/rafaellcancian/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram" ></a>
+   <a href="mailto:rafaellonderocancian@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail" ></a>
 </p>
