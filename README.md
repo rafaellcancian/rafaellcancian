@@ -18,6 +18,8 @@
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" title="Postman" height="50" >
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1200px-DBeaver_logo.svg.png" title="DBeaver" height="50" >
   <img src="https://cdn.worldvectorlogo.com/logos/gitkraken.svg" title="GitKraken" height="50" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows" height="50" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" height="50" >
 </p>
 
 ## ✉️ Contato
