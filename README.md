@@ -22,8 +22,8 @@
 
 ## ✉️ Contato
 <p align="left">
-   <a href="https://www.facebook.com/rafaellcancian/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" title="Facebook" ></a>
-   <a href="https://www.instagram.com/rafaellcancian/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram" ></a>
-   <a href="https://www.linkedin.com/in/rafaellcancian/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" ></a>
-   <a href="mailto:rafaellonderocancian@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail" ></a>
+   <a href="https://www.facebook.com/rafaellcancian/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" title="Facebook" ></a>
+   <a href="https://www.instagram.com/rafaellcancian/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram" ></a>
+   <a href="https://www.linkedin.com/in/rafaellcancian/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" ></a>
+   <a href="mailto:rafaellonderocancian@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail" ></a>
 </p>
