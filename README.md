@@ -4,14 +4,14 @@
 ## 🌴 Sobre
 - 📌 Santa Maria - RS
 - 🎓 Bacharel em Ciência da Computação pela Universidade Franciscana (UFN)
-- 💼 Desenvolvedor back-end na <a href="https://www.instagram.com/condomerapp/">@condomerapp</a>
+- 💼 Desenvolvedor Backend na <a href="https://www.instagram.com/condomerapp/">@condomerapp</a>
 
 ## 🧰 Linguagens e ferramentas
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" height="50" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" height="50" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" height="50" >     
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" title="Yarn" height="50" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring Boot" height="50" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" height="50" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" height="50" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" height="50" >
