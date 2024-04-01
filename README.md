@@ -4,7 +4,7 @@
 ## 🌴 Sobre
 - 📌 Santa Maria - RS
 - 🎓 Bacharel em Ciência da Computação pela Universidade Franciscana (UFN)
-- 💼 Desenvolvedor Backend na <a href="https://www.instagram.com/condomerapp/">@condomerapp</a>
+- 💼 Desenvolvedor Back-end na <a href="https://www.instagram.com/condomerapp/">@condomerapp</a>
 
 ## 🧰 Linguagens e ferramentas
 <p align="left">
