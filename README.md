@@ -1,12 +1,12 @@
-## Olá 👋
+## Hi there, I am Rafael 👋
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rafaellcancian.rafaellcancian)
 
-## 🌴 Sobre
-- 📌 Santa Maria - RS
-- 🎓 Cientista da Computação
-- 💼 Desenvolvedor Back-end na <a href="https://www.instagram.com/condomerapp/">@condomerapp</a>
+## 🌴 About
+- 📌 Rio Grande do Sul, Brazil
+- 🎓 Computer Scientist
+- 💼 Back-end developer at <a href="https://www.instagram.com/condomerapp/">@condomerapp</a>
 
-## 🧰 Linguagens e ferramentas
+## 🧰 Languages and Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" height="50" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" height="50" >
@@ -23,7 +23,7 @@
   <img src="https://www.svgrepo.com/show/353784/gitkraken.svg" title="GitKraken" height="50" >
 </p>
 
-## ✉️ Contato
+## ✉️ Contact
 <p align="left">
    <a href="https://www.facebook.com/rafaellcancian/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" title="Facebook" ></a>
    <a href="https://www.instagram.com/rafaellcancian/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram" ></a>
