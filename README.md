@@ -34,8 +34,8 @@
 
 ## ✉️ Contact
 <p align="left">
-  <a href="https://www.linkedin.com/in/rafaellcancian/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" ></a>
   <a href="mailto:rafaellonderocancian@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail" ></a>
-  <a href="https://www.instagram.com/rafaellcancian/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram" ></a>
+  <a href="https://www.linkedin.com/in/rafaellcancian/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" ></a>
+  <a href="https://www.instagram.com/rafaellcancian"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram" ></a>
   <a href="https://gitlab.com/rafaellcancian"><img src="https://img.shields.io/badge/GitLab-FCA326?style=for-the-badge&logo=gitlab&logoColor=white" title="GitLab" ></a>
 </p>
