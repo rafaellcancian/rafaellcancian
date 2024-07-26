@@ -1,5 +1,5 @@
 ## Hi there, I am Rafael 👋
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=rafaellcancian.rafaellcancian)
+<a href="https://github.com/rafaellcancian">![visitors](https://visitor-badge.laobi.icu/badge?page_id=rafaellcancian.rafaellcancian)</a>
 
 ## 🌴 About
 - 📌 Rio Grande do Sul, Brazil
