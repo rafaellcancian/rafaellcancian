@@ -4,7 +4,7 @@
 ## 🌴 About
 - 📌 Rio Grande do Sul, Brazil
 - 🎓 Computer Scientist
-- 💼 Back-end developer at <a href="https://www.instagram.com/condomerapp/">@condomerapp</a>
+- 💼 IT Analyst and Back-end Developer
 
 ## 💡 Languages, Frameworks and Technologies
 <p align="left">
