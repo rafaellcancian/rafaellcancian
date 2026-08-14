@@ -23,7 +23,7 @@
   <a href="https://github.com/rafaellcancian"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" height="50" ></a>
   <a href="https://github.com/rafaellcancian"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman" height="50" ></a>
   <a href="https://github.com/rafaellcancian"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" title="DBeaver" height="50" ></a>
-  <a href="https://github.com/rafaellcancian"><img src="https://www.svgrepo.com/show/353784/gitkraken.svg](https://git-fork.com/images/logo.png" title="Fork" height="50" ></a>
+  <a href="https://github.com/rafaellcancian"><img src="https://git-fork.com/images/logo.png" title="Fork" height="50" ></a>
 </p>
 
 ## 🖥️ OS
