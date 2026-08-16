@@ -4,7 +4,7 @@
 ## 🌴 About
 - 📌 Rio Grande do Sul, Brazil
 - 🎓 Computer Scientist
-- 💼 IT Analyst and Back-end Developer
+- 💼 IT Analyst and Full-Stack Developer
 
 ## 💡 Languages, Frameworks and Technologies
 <p align="left">
